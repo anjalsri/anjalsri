@@ -23,9 +23,9 @@ I am a results-driven professional specializing in transforming complex data int
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/anjal-srivastav-412719175
 - **Portfolio:** [https://anjalsri.github.io/sarvam-digital](https://anjalsri.github.io/sarvam-digital)
-- **Email:** [Your Professional Email Here]
+- **Email:** anjalsrivastav9792@gmail.com
 
 ---
 
