@@ -1,143 +1,37 @@
-�
+# Hi there, I'm Anjal Srvastav 👋
 
-👋 Hi there, I'm Anjal Srivastav!
-💻 Full-Stack Developer | 🎨 Creative Designer | 🚀 Problem Solver
-�
-￼
-�
-�
-Load image
-Load image
-�
+### 👨‍💻 Data Analyst | Python Developer | Founder of Sarvam Digital
 
-🙋‍♂️ About Me
-const anjal = {
-  name:       "Anjal Srivastav",
-  username:   "anjalsri",
-  pronouns:   "he/him",
-  role:       "Full-Stack Web Developer",
-  passion:    "Building practical & user-friendly applications",
-  focus:      ["Web Development", "UI/UX Design", "E-commerce Platforms"],
-  funFact:    "I combine code and creativity to bring ideas to life 🎨"
-};
-🌟 I am a developer with a creative edge, combining web development and design skills to build practical and user-friendly applications — from E-commerce platforms to interactive games.
-🛠️ Tech Stack
-�
+I am a results-driven professional specializing in transforming complex data into actionable insights and building robust automation systems using Python. As the founder of **Sarvam Digital**, I bridge the gap between advanced data analytics and modern digital marketing.
 
-🌐 Frontend
-�
-�
-�
-�
-�
-Load image
-Load image
-Load image
-Load image
-Load image
-⚙️ Backend
-�
-�
-�
-Load image
-Load image
-Load image
-🗄️ Database & Tools
-�
-�
-�
-�
-�
-�
-Load image
-Load image
-Load image
-Load image
-Load image
-Load image
-�
+---
 
-🚀 Featured Projects
-🎮 Rock Paper Scissors Game
-"This game will memorize your good old days!"
-�
-�
-�
-Load image
-Load image
-Load image
-A fun, nostalgic Rock Paper Scissors game built with pure HTML, CSS, and JavaScript. A throwback to classic browser-based games with a clean UI.
-✅ Interactive gameplay with score tracking
-✅ Clean and responsive UI
-✅ Pure vanilla JavaScript — no dependencies
-🛒 E-Commerce Platform (In Progress)
-Building a full-featured online shopping experience
-�
-�
-�
-Load image
-Load image
-Load image
-🛍️ Product listing, cart & checkout
-🔐 User authentication & authorization
-📦 Order management system
-📊 GitHub Stats
-�
+### 🚀 Technical Expertise
 
-�
-￼ ￼
-�
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Tableau/PowerBI.
+- **Python Development:** FastAPI, Flask, Automation Scripts, Web Scraping (BeautifulSoup/Selenium).
+- **Web Technology:** React.js, Tailwind CSS, Full-Stack Integration.
+- **Business Intelligence:** Funnel Optimization, ROI Tracking, Market Trend Analysis.
 
-�
+---
 
-�
-Load image
-�
+### 📊 Currently Working On
+- **Sarvam Digital:** Scaling a high-performance digital agency platform.
+- **AI-Driven Analytics:** Building automated reporting tools for digital marketing campaigns.
+- **Predictive Modeling:** Exploring time-series forecasting for e-commerce growth.
 
-🏆 GitHub Trophies
-�
+---
 
-�
-Load image
-�
+### 📫 Let's Connect!
+- **LinkedIn:** [Your LinkedIn Link Here]
+- **Portfolio:** [https://anjalsri.github.io/sarvam-digital](https://anjalsri.github.io/sarvam-digital)
+- **Email:** [Your Professional Email Here]
 
-💼 Experience & Skills Snapshot
-Skill Area
-Proficiency
-🌐 Frontend Development
-████████░░ Advanced
-🎨 UI/UX & Design
-███████░░░ Intermediate
-⚙️ Backend Development
-██████░░░░ Intermediate
-🗄️ Database Management
-█████░░░░░ Growing
-🛒 E-Commerce Solutions
-███████░░░ Intermediate
-🌱 Currently Working On
-🔨 Building full-stack E-commerce platforms
-📚 Deepening knowledge in React & Node.js
-🎯 Improving system design skills
-🌐 Creating a personal portfolio website
-🤝 Let's Connect!
-�
+---
 
-�
-�
-�
-�
-�
-Load image
-Load image
-Load image
-Load image
-Load image
-�
+### ⚡ Fun Fact
+I believe that every data point tells a story—you just need the right code to hear it.
 
-�
-
-💬 Dev Quote of the Day
-�
-Load image
-⭐️ From anjalsri — If you like my work, consider giving a star! ⭐️
-�
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalsri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
